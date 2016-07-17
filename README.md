@@ -1,2 +1,2 @@
 # P2P-unblock-censorship
-![](/Desktop//p2p.png "Flowchart")
+![](https://github.com/xinqicoding/P2P-unblock-censorship/raw/master/p2p.png)

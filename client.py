@@ -15,7 +15,7 @@ BACKLOG = 50						# Number of pending connections
 
 
 # Main
-//def main():
+def main():
 
 	# check the length of command running
 	if (len(sys.argv) < 2):

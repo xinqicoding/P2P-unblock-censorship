@@ -14,7 +14,7 @@ MAX_BUFFER_SIZE = 4096				# The buffer size to receive once
 BACKLOG = 50						# Number of pending connections 
 
 
-# MAIN 
+ MAIN 
 def main():
   print "Starting the server"
   request_count = 0;
